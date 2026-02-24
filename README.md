@@ -1,4 +1,4 @@
-# Cryptography Implementation – AES & RSA
+# Hybrid Encryption System (AES + RSA)
 
 ## Description
 This project demonstrates the implementation of symmetric and asymmetric encryption algorithms, specifically AES and RSA. The objective is to understand how modern cryptographic systems secure data and manage keys.
